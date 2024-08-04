@@ -19,4 +19,10 @@ VISUALIZING THE DATA(using powerBi):
 
 
 The key take aways form the analyzed data is given in the Power point.
+
+REQUIREMENTS:
+      -pip install pandas
+      -pip install sqlalchemy
+      -pip install psycopg2
+      -pi install numpy
       
